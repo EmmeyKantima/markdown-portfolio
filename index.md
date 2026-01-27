@@ -29,7 +29,7 @@ This text is **bold** and this is *italics*. This is ***bold and italic***
 - Portfolio Website
 
     ![Portfolio Website Screenshot](images/mintchoco.jpg)
-    <img scr="images/mintchoco.jpg" width="50">
+    <img src="images/mintchoco.jpg" width="100">
 
 ## Contact and socials
 
@@ -44,3 +44,14 @@ You can habe multi line code snippet:
 let test = "Hello";
 alert(test);
 ```
+
+| Language    | Type        |
+| ----------- | ----------- |
+| PHP         | Server Side |
+| Javascript  | Client Side |
+| Python      | Server Side |
+
+> Blockquote
+
+> [!NOTE]
+> This is my note.
