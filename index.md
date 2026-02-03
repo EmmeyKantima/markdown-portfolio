@@ -56,6 +56,6 @@ Welcome to my online Markdown portfolio!
 ```javascript
 var userInput = prompt("what your name?");
 if(userInput = "Kantima"){
-    alert(Hello Kantima Pinthong)
+    alert("Hello Kantima Pinthong")
 }
 ```
