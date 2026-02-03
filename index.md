@@ -53,4 +53,9 @@ Welcome to my online Markdown portfolio!
 
 
 >[!NOTE]
-- 
+```javascript
+var userInput = prompt("what your name?");
+if(userInput = Kantima){
+    alert(Hello Kantima Pinthong)
+}
+```
