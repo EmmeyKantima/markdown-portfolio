@@ -9,7 +9,9 @@ Welcome to my online Markdown portfolio!
 
 > ## About me
 
-My name is **Kantima** from Thailand. I am currently student in Web Development program at **Humber Collage**.
+
+>My name is **Kantima**. I am a Thai graduate with a background in customer service, hospitality, and general support roles. I am currently pursuing a post-graduate program at Humber College in Canada. I have experience working in international and fast-paced environments, which has helped me develop strong adaptability, teamwork, and communication skills. I am motivated, responsible, and eager to continue learning and growing both academically and professionally.
+
 
 <img src="images/Kantima.jpg" width="200">
 
@@ -30,13 +32,12 @@ My name is **Kantima** from Thailand. I am currently student in Web Development 
 
 > ## Projects
 
-[Github](https://github.com/EmmeyKantima)
+- [Github](https://github.com/EmmeyKantima)
 
 <img src="images/Screenshot%20Github.png" width="500">
 
-[Portfolio Website](https://emmeykantima.github.io/markdown-portfolio/)
+- [Portfolio Website](https://emmeykantima.github.io/markdown-portfolio/)
 
-![Portfolio Website Screenshot](images/mintchoco.jpg)
 
 
 > ## Contact and socials
@@ -51,10 +52,5 @@ My name is **Kantima** from Thailand. I am currently student in Web Development 
 
 
 
-You can have multi line code snippet:
-
-```javascript
-let test = "Hello";
-alert(test);
-```
-
+>[!NOTE]
+- 
