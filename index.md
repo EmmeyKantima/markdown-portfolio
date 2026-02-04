@@ -48,14 +48,8 @@ Welcome to my online Markdown portfolio!
 
 - <img src="images/linkedin.png" width="15"> [Linkedin](https://www.linkedin.com/in/kantima-pinthong-45765314b/)
 
-- `Email` : kantima.pinthong@gmail.com
 
 
 
 >[!NOTE]
-```javascript
-var userInput = prompt("what your name?");
-if(userInput === "Kantima"){
-    alert("Hello Kantima Pinthong")
-}
-```
+
